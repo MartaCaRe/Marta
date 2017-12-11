@@ -1,0 +1,16 @@
+h1  {
+	font-family: 'arial', sans-seriff;
+	font-weight: bold;
+	font-color: blue;
+}
+h2 {
+	background-color: rgb(186, 210, 234);
+	color: rgb(55, 121, 184);
+	font-weight: bold;
+	line-height: 1.5em;
+	
+}
+p {
+	font-family: 'arial', sans-seriff;
+	font-color: rgb(55, 121, 184);
+}
